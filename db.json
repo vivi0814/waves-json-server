@@ -45,6 +45,94 @@
                     "name": "Accessible"
                 }
             ]
+        },
+        {
+            "id": 2,
+            "image": [
+                "https://picsum.photos/650/400/?random=33",
+                "https://picsum.photos/650/400/?random=34",
+                "https://picsum.photos/650/400/?random=35"
+            ],
+            "name": "Ocean View",
+            "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto quia amet veniam odio commodi ad dolore ci eaque dignissimos,llque! Nostrum op.",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, iure odio maxime sequi est adipisci quasi ex. Sed, eum aspernatur ipsa, reprehenderit soluta assumenda dicta, odio eos autem magnam libero enim iste maiores inventore atque pariatur dolorem? Saepe nisi nihil amet sapiente molestias sed aspernatur accusamus at suscipit eius, ab perferendis quas commodi.",
+            "price": 1900,
+            "facilities": [
+                {
+                    "icon": "two_wheeler",
+                    "name": "Two Wheeler"
+                },
+                {
+                    "icon": "local_laundry_service",
+                    "name": "Laundry"
+                },
+                {
+                    "icon": "elevator",
+                    "name": "Elevator"
+                },
+                {
+                    "icon": "smoke_free",
+                    "name": "No Smoking"
+                },
+                {
+                    "icon": "sound_detection_dog_barking",
+                    "name": "Pet Friendly"
+                },
+                {
+                    "icon": "scuba_diving",
+                    "name": "Scuba Diving"
+                },
+                {
+                    "icon": "map",
+                    "name": "Map"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "image": [
+                "https://picsum.photos/650/400/?random=36",
+                "https://picsum.photos/650/400/?random=37",
+                "https://picsum.photos/650/400/?random=38"
+            ],
+            "name": "The Secret",
+            "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto quia amet veniam odio commodi ad dolore ci eaque dignissimos,llque! Nostrum optiobus, sunt alias.",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, iure odio maxime sequi est adipisci quasi ex. Sed, eum aspernatur ipsa, reprehenderit soluta assumenda dicta, odio eos autem magnam libero enim iste maiores inventore atque pariatur dolorem? Saepe nisi nihil amet sapiente molestias sed aspernatur accusamus at suscipit eius, ab perferendis quas commodi.",
+            "price": 2400,
+            "facilities": [
+                {
+                    "icon": "bakery_dining",
+                    "name": "Breakfast"
+                },
+                {
+                    "icon": "vacuum",
+                    "name": "Cleaning"
+                },
+                {
+                    "icon": "king_bed",
+                    "name": "King Bed"
+                },
+                {
+                    "icon": "dry_cleaning",
+                    "name": "Towels"
+                },
+                {
+                    "icon": "kitchen",
+                    "name": "Refrigerator"
+                },
+                {
+                    "icon": "scuba_diving",
+                    "name": "Scuba Diving"
+                },
+                {
+                    "icon": "storefront",
+                    "name": "Grocery Shop"
+                },
+                {
+                    "icon": "map",
+                    "name": "Map"
+                }
+            ]
         }
     ],
     "news": [
