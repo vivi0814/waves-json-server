@@ -2,7 +2,11 @@
     "rooms": [
         {
             "id": 1,
-            "image": [],
+            "image": [
+                "https://picsum.photos/650/400/?random=30",
+                "https://picsum.photos/650/400/?random=31",
+                "https://picsum.photos/650/400/?random=32"
+            ],
             "name": "The Best Resort",
             "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto quia amet veniam odio commodi ad dolore ci eaque dignissimos,llque! Nostrum optio harumuptatem aut temporibus, sunt alias.",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, iure odio maxime sequi est adipisci quasi ex. Sed, eum aspernatur ipsa, reprehenderit soluta assumenda dicta, odio eos autem magnam libero enim iste maiores inventore atque pariatur dolorem? Saepe nisi nihil amet sapiente molestias sed aspernatur accusamus at suscipit eius, ab perferendis quas commodi.",
